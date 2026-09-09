@@ -183,7 +183,7 @@ This project demonstrates practical experience with:
 
 **Sanjana Palde**
 
-Aspiring Data Analyst / Data Scientist
+Aspiring Data Analyst
 
 ### 🔗 Connect With Me
 
