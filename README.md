@@ -112,21 +112,6 @@ The dashboard contains multiple visualization types, including:
 
 ---
 
-## 🗂️ Project Structure
-
-```text
-PowerBI-Sales-Analytics-Dashboard/
-│
-├── PowerBI-Sales-Analytics-Dashboard.pbix
-│
-├── README.md
-│
-└── screenshots/
-    └── dashboard.png
-```
-
----
-
 ## 🔍 Key Business Questions
 
 This dashboard can help answer questions such as:
@@ -177,12 +162,6 @@ Use the available slicers and visualizations to interact with the report.
 
 ---
 
-```markdown
-![Power BI Sales Dashboard](screenshots/dashboard.png)
-```
-
----
-
 ## 📚 Skills Demonstrated
 
 This project demonstrates practical experience with:
@@ -208,7 +187,7 @@ Aspiring Data Analyst / Data Scientist
 
 ### 🔗 Connect With Me
 
-* GitHub:
+* GitHub: https://github.com/SanjanaPalde
 
 ---
 
@@ -220,4 +199,4 @@ If you like this project, consider giving the repository a ⭐ on GitHub.
 
 ## 📄 License
 
-This project is created for **educational and portfolio purposes**.
+This project is created for **educational purposes**.
